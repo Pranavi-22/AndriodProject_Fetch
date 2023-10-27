@@ -32,7 +32,7 @@ The objective of this mobile application is to retrieve data from a specific URL
 
 ## Images
 
--First page display in ListIds
 <img width="448" alt="Screenshot 2023-10-27 at 3 08 59 AM" src="https://github.com/Pranavi-22/AndriodProject_Fetch/assets/60108462/a34c52a1-e2bf-4563-9c0b-90fae40807bb">
 
+<img width="462" alt="Screenshot 2023-10-27 at 3 09 08 AM" src="https://github.com/Pranavi-22/AndriodProject_Fetch/assets/60108462/e9aca545-b0ad-4362-92f8-33383dc9140e">
 
