@@ -31,5 +31,6 @@ The objective of this mobile application is to retrieve data from a specific URL
 -This project provides a foundation for data retrieval, processing, and presentation in an Android application, adhering to specific grouping, sorting, and filtering criteria.
 
 ## Images
-![img](https://github.com/Pranavi-22/AndriodProject_Fetch/issues/1)
+<img width="448" alt="Screenshot 2023-10-27 at 3 08 59 AM" src="https://github.com/Pranavi-22/AndriodProject_Fetch/assets/60108462/a34c52a1-e2bf-4563-9c0b-90fae40807bb">
+
 
